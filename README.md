@@ -9,3 +9,5 @@ It uses mySQL database, included in the doc folder.
 4. create an account with Africa's Talking to run your ussd
 5. import the database included in the doc folder
 6. now run the project, npm start
+
+7. Good to go
